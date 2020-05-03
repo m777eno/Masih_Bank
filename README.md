@@ -5,7 +5,6 @@ Note to User
 -	Please extract all files
 -	Start and terminate the program using IDE
 
-Summary
 Masih Bank is a program created by Enoch Masih to fulfill the requirements on the final project of the class CIS-153. 
 This program is a data analyzer. 
 The purpose of Masih Bank is to educate the user on better financial practices by simulating a bank account.

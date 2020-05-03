@@ -10,7 +10,7 @@ These options consists of: Checking, Savings, Transfer, Loans, Good banker, refe
 Checking and Savings options allow the user to add or remove funds from their respective account while also educating the user on smarter money habits.
 Transfer option transfers funds between checking and savings.
 Loans not only educates but also includes a loan calculator.
-In the loan calculator the user can simulate calculate their monthly payment based on a fixed monthly payment.
+In the loan calculator the user can calculate their monthly payment based on a fixed monthly payment.
 This analyzes the data of the savings account while educating the user on loan practices.
 Good banker is a collection of all advice.
 References provides cited sources of all advice provided in the program.

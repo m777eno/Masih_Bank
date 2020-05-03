@@ -1,3 +1,8 @@
+Note to User
+-	Do not open the text file as the file can be easily corrupted.  
+-	Other than the username and password, this program will only ask for numeric input. 
+-	Please follow the instructions on any numeric data requested by the program. When the program requests a numeric input in regard to finances, inaccurate data type will not be tolerated, inaccurate data type will still be processed in the options menu of the program to return an invalid data prompt. 
+
 Masih Bank is a program created by Enoch Masih to fulfill the requirements on the final project of the class CIS-153. 
 This program is a data analyzer. 
 The purpose of Masih Bank is to educate the user on better financial practices by simulating a bank account.
